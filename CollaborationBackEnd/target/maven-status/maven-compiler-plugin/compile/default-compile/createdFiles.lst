@@ -1,0 +1,9 @@
+com\niit\collaborationbackend\controller\UserController.class
+com\niit\collaborationbackend\config\ApplicationContextConfig.class
+com\niit\collaborationbackend\model\BaseDomain.class
+com\niit\collaborationbackend\model\Job.class
+com\niit\collaborationbackend\model\Blog.class
+com\niit\collaborationbackend\model\User.class
+com\niit\collaborationbackend\controller\HomeController.class
+com\niit\collaborationbackend\dao\UserDAO.class
+com\niit\collaborationbackend\dao\UserDAOImpl.class
